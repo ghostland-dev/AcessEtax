@@ -1,4 +1,4 @@
-# Access E-Tax (AdonisJS)
+# Energy Tax (AdonisJS)
 
 AdonisJS rewrite of the E-Tax platform for energy tax files.
 
